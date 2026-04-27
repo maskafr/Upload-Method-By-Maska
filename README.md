@@ -5,7 +5,7 @@
 1. Open Chrome and go to `chrome://extensions`.
 2. Enable **Developer mode**.
 3. Click **Load unpacked**.
-4. Select this folder: `Maska Method`.
+4. Select this folder: `Extension`.
 5. Pin/open the extension popup and use the master switch.
 
 ## License
